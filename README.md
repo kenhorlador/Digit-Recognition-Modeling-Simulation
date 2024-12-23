@@ -33,7 +33,7 @@ This application provides a user-friendly interface for real-time handwritten di
 
 1.  **Clone the repository:**
     ```bash
-    git clone [git@github.com:kenhorlador/Digit-Recognition-Modeling-Simulation.git](git@github.com:kenhorlador/Digit-Recognition-Modeling-Simulation.git)
+    git clone [https://github.com/kenhorlador/Digit-Recognition-Modeling-Simulation](https://github.com/kenhorlador/Digit-Recognition-Modeling-Simulation)
     ```
 
 2.  **Install dependencies:**
