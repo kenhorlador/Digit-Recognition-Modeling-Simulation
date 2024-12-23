@@ -1,3 +1,6 @@
+### Step 2: Modify the main Streamlit app
+
+# ```python
 import cv2
 import numpy as np
 import tensorflow as tf
@@ -21,7 +24,10 @@ st.set_page_config(layout="wide")
 st.title("Real-time Digit Recognition")
 st.write("Draw a digit on the canvas and click 'Predict' to see the result.")
 
-st.sidebar.write("Instructions:")
+# Add the Documentation link in the sidebar
+# st.sidebar.markdown('[Documentation](documentation.py)', unsafe_allow_html=True)
+
+# st.sidebar.write("Instructions:")
 
 # Create a resizable canvas for drawing
 canvas_result = st_canvas(
@@ -75,10 +81,3 @@ if col1.button("Predict Handwritten Digit"):
         ax.grid(axis="y", linestyle="--", alpha=0.7)
         ax.set_axisbelow(True)
         st.pyplot(fig)
-
-
-
-
-
-    # with col2:
-
