@@ -33,7 +33,7 @@ This application provides a user-friendly interface for real-time handwritten di
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/kashishg0004/Offline-Digit-Recognition-System.git](https://github.com/kashishg0004/Offline-Digit-Recognition-System.git)
+    git clone [git@github.com:kenhorlador/Digit-Recognition-Modeling-Simulation.git](git@github.com:kenhorlador/Digit-Recognition-Modeling-Simulation.git)
     ```
 
 2.  **Install dependencies:**
