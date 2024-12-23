@@ -69,7 +69,3 @@ This project is licensed under the MIT License.
 
 *   The MNIST dataset for providing the training data.
 *   The developers of TensorFlow, Streamlit, and OpenCV for their powerful libraries.
-
-## Author
-
-Kashish
